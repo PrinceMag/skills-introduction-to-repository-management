@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @PrinceMag
+/src/backend/database.py      @PrinceMag
+/src/backend/routers/auth.py  @PrinceMag
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @PrinceMag
